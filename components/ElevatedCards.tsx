@@ -40,7 +40,8 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         flexDirection: 'row',
-        padding: 28
+        padding: 28,
+        backgroundColor: '#777E8B'
     },
     card: {
         flex: 1,
